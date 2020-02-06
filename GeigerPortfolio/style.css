@@ -1,0 +1,36 @@
+html { font-family: 'Roboto', sans-serif;
+    text-align: center;}
+
+body { background-color: #e6e6fa; 
+        color: #191970;}
+
+nav { background-color: #9999ff;
+        color:#e6e6fa;
+        text-align: left;}
+
+h1 { background-color: #191970; 
+        color: #e6e6fa;}
+
+h2 { background-color: #aeaed4; 
+        color: #191970;}
+
+h3 { background-color: #cdcde5;
+        color: #191970;}
+
+#pic1 { box-align: center;}
+
+#topimage { width: 50%;
+        height: 50%;
+        padding: 25px 25%;}
+
+p { padding: 5px 20%;
+        text-align: left;}
+
+ul { list-style-position: inside;
+        padding: 5px 20%;}
+
+a:link, a:visited { text-decoration: none; 
+        color:#e6e6fa;}
+
+a:hover { text-decoration: none;
+        color: black;}
