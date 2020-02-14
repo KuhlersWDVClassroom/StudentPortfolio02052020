@@ -1,16 +1,22 @@
 
 body { 
-    background-color:#e6e6fa;
-     color: black   }
+    
+    background-image: url(photos/Background1.jpg);
+    color: black;
+       }
+
+
+
+
 
 h1 { 
     Background-color: #5fa2e0
-    ; color: #e6e6fa; text-align: center }
+    ; color: #e6e6fa; text-align: center; border-style: solid; }
     
 
 h2 { 
     background-color: #9eeee3;
-     color: #191970; text-align: center }
+     color: #191970; text-align: center; border-style: solid; }
 
      #pic { text-align: center}
 
@@ -22,6 +28,7 @@ h3 {
     background-color: #9eeee3;
     color: #191970; 
     text-align: center;
+    border-style: solid;
     }
 
 .box a{
@@ -46,3 +53,15 @@ p { padding-left: 20%;
 #ed {
     float: right;
 }
+
+hr {border-style: dashed;}
+
+.bulletText p{
+ padding-left: 5%;
+ padding-right: 5%;
+}
+
+.float_left {float: left; padding-right: 10%;} 
+.text {text-align: center;} 
+
+
